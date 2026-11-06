@@ -10,7 +10,7 @@ import Teams from './pages/Teams.jsx';
 import { seedDemo } from './lib/services.js';
 import './styles.css';
 
-const NotFound = () => <section className="panel"><h1>Página no encontrada</h1></section>;
+const NotFound = () => <section className="panel"><h1>Página no enlazada</h1></section>;
 
 function App() {
   return (
